@@ -42,18 +42,20 @@ Clone this repository to your local machine using the following command:
     ```bash
          git clone https://github.com/NadeemAkhtar1947/handwritten-digit-recognition.git
          cd handwritten-digit-recognition
-    ```bash
+    
 
 2. **Step 2: Install Dependencies**
 Install the required Python packages using pip:
-pip install -r requirements.txt
+    ```bash
+          pip install -r requirements.txt
 
-Step 3: Run the Streamlit App
+3. **Step 3: Run the Streamlit App**
 Start the Streamlit application by running:
-streamlit run app.py
+      ```bash
+          streamlit run app.py
 
 Step 4: Open in Browser
-The app will open automatically in your default browser. If not, navigate to:
+The app will open automatically in your default browser. 
 
 🖼️ Screenshots
 <img width="956" alt="2" src="https://github.com/user-attachments/assets/94751022-be3a-45c1-a909-133bde4f0b80" />
