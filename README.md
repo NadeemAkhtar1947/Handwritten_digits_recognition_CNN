@@ -54,7 +54,7 @@ Start the Streamlit application by running:
       ```bash
           streamlit run app.py
 
-Step 4: Open in Browser
+4. **Step 4: Open in Browser**
 The app will open automatically in your default browser. 
 
 🖼️ Screenshots
