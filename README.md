@@ -27,11 +27,11 @@ This project is a **Handwritten Digit Recognition** system built using a Convolu
 ## 📂 Repository Structure
 
 handwritten-digit-recognition/
-├── app.py # Streamlit application code
-├── mnist_model.h5 # Trained CNN model
-├── README.md # Project documentation
-├── requirements.txt # Python dependencies
-└── images/ # Screenshots or assets (optional)
+- ├── app.py # Streamlit application code
+- ├── mnist_model.h5 # Trained CNN model
+- ├── README.md # Project documentation
+- ├── requirements.txt # Python dependencies
+- └── images/ # Screenshots or assets (optional)
 
 ---
 
