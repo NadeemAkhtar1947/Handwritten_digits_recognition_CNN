@@ -55,7 +55,9 @@ Step 4: Open in Browser
 The app will open automatically in your default browser. If not, navigate to:
 
 🖼️ Screenshots
-App Screenshot (Replace with your actual screenshot)
+<img width="956" alt="2" src="https://github.com/user-attachments/assets/94751022-be3a-45c1-a909-133bde4f0b80" />
+<img width="958" alt="1" src="https://github.com/user-attachments/assets/080b5423-34d4-423d-965f-0843f82a829a" />
+
 
 🎯 How to Use
 Draw a Digit: Use your mouse or touchpad to draw a digit (0-9) on the canvas.
