@@ -39,10 +39,10 @@ handwritten-digit-recognition/
 
 1. **Step 1: Clone the Repository**
 Clone this repository to your local machine using the following command:
-```bash
-git clone https://github.com/NadeemAkhtar1947/handwritten-digit-recognition.git
-cd handwritten-digit-recognition
-```bash
+    ```bash
+         git clone https://github.com/NadeemAkhtar1947/handwritten-digit-recognition.git
+         cd handwritten-digit-recognition
+    ```bash
 
 2. **Step 2: Install Dependencies**
 Install the required Python packages using pip:
